@@ -42,7 +42,7 @@
   title: "What I do",
   subTitle: "PASSIONATE BACKEND DEVELOPER WHO LOVES TO BUILD SCALABLE AND SECURE SYSTEMS",
   skills: [
-    "⚡ Design and implement robust APIs and microservices for web and mobile applications",
+    "⚡ Design and implement APIs and microservices for web and mobile applications",
     "⚡ Build scalable server-side architectures using Node.js, Java Spring and other modern back-end technologies",
     "⚡ Integration of cloud services like AWS, Firebase for seamless deployments and scalability"
   ],
