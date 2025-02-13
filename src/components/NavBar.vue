@@ -1,6 +1,6 @@
 <template>
   <header class="flex justify-between items-center p-6 bg-opacity-50 relative z-20 italic">
-      <div class="text-black text-3xl font-bold">LOGO</div>
+      <div class="text-[#868e96] text-3xl font-bold italic ":style="{ fontFamily: 'Dancing Script, sans-serif' }">DUYQUANG</div>
       <!-- Mobile Toggle Button -->
        <div class="md:hidden z-30">
        <button type="button" 
@@ -38,9 +38,9 @@
 import { ref } from 'vue';
 const Menu =ref([
   {name:'Skills',href:'#services'},
-  {name:'About Me',href:'#education'},
+  {name:'Education',href:'#education'},
   {name:'Projects',href:'#projects'},
-  {name:'Testimonials',href:'#testimonials'},
+  {name:'Blog',href:'#blog'},
   {name:'Contact',href:'#contact'},
 ]);
 

@@ -1,7 +1,7 @@
 <template>
     <section class="text-white mt-20" id="services" >
       <div class="px-4 xl:pl-16">
-        <h2 class="text-4xl font-bold text-[#868e96] mb-4 italic":style="{ fontFamily: 'Grechen Fuemen, sans-serif' }">Skills</h2>
+        <h2 class="text-4xl font-bold text-[#868e96] mb-4 italic" :style="{ fontFamily: 'Grechen Fuemen, sans-serif' }">Skills</h2>
       </div>
       
       <div class="py-8 xl:px-16 px-4 sm:py-16 grid grid-cols-1 sm:grid-cols-2 gap-6 pt-10 md:gap-10">

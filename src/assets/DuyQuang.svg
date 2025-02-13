@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="249a8775-95a5-42fa-8cfe-cac2a232795e"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="f889f4d0-fe3f-461d-aa6f-d59b2b577bc3"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540.5 547.28)" style="filter: url(#SVGID_308);" id="010cde73-c1d5-4fe0-87ca-ad01e81be770"  >
+<filter id="SVGID_308" y="-83%" height="266%" x="-28%" width="156%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="21.5"></feGaussianBlur>
+	<feOffset dx="-22" dy="-22" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(0,0,0)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Alegreya" font-size="92" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-276.87" y="28.9" >D</tspan><tspan x="-197.39" y="28.9" >u</tspan><tspan x="-131.51" y="28.9" >y</tspan><tspan x="-73.19" y="28.9" style="white-space: pre; "> </tspan><tspan x="-41.54" y="28.9" >Q</tspan><tspan x="36.66" y="28.9" >u</tspan><tspan x="102.53" y="28.9" >a</tspan><tspan x="162.61" y="28.9" >n</tspan><tspan x="229.95" y="28.9" >g</tspan></text>
+</g>
+</svg>

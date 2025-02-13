@@ -1,9 +1,22 @@
 <template>
   <div class="bg-[#fff] min-h-screen">
-    <NavBar />
-    <HeroSection/>
-    <ServiceSection/>
-    <AboutSection/>
+    <!-- Wrap components in Suspense to handle loading -->
+     <Suspense>
+      <template #default>
+        <!-- Wrap all Components inside a single root element -->
+         <div>
+            <NavBar />
+            <HeroSection />
+            <ServiceSection />
+            <AboutSection />
+      </div>
+    </template>
+    <template #fallback>
+      <div class="flex justify-center items-center min-h-screen">
+          <loadingSpinner />
+      </div>
+    </template>
+  </Suspense>
   </div>
 </template>
 
