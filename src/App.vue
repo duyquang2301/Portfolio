@@ -9,6 +9,7 @@
             <HeroSection />
             <ServiceSection />
             <AboutSection />
+            <ExperienceSection />
             <ProjectSection />
 
             <Footer />
@@ -30,6 +31,7 @@ const NavBar = defineAsyncComponent(()=>import('@/components/NavBar.vue'));
 const HeroSection = defineAsyncComponent(()=>import('@/components/HeroSection.vue'));
 const ServiceSection = defineAsyncComponent(()=>import('@/components/ServiceSection.vue'));
 const AboutSection = defineAsyncComponent(()=>import('@/components/SchoolSection.vue'));
+const ExperienceSection = defineAsyncComponent(()=>import('@/components/ExperienceSection.vue'));
 const ProjectSection = defineAsyncComponent(()=>import('@/components/ProjectSection.vue'));
 
 
