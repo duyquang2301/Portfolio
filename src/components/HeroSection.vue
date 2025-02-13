@@ -42,7 +42,7 @@
                                     </svg>
                                     <div class="download-loader text-white hidden"></div>
                                 </div>
-                                <a href="@/assets/CV_TranDuyQuang.pdf" download="CV_TranDuyQuang.pdf"
+                                <a href="https://res.cloudinary.com/shopdev-duyquang/image/upload/v1739439766/Profile/ew6heyaceyzzn6fxhhv6.pdf" download="CV_TranDuyQuang.pdf"
                                     class="pl-2 text-primary"> Download resume</a>
                             </div>
                         </button>
@@ -55,8 +55,8 @@
                             class="absolute z-0 top-1/2 -translate-y-1/2 w-5/6 right-0 h-[calc(80%+20px)] bg-gradient-to-tr opacity-25 from-[#570cac] to-primary blur-2xl">
                         </div>
                         <div
-                            class="absolute h-full z-10 p-2 -translate-y-1/2 top-1/2 lg:right-3 md:right-40 sm:right-16 rounded-full shadow-lg border border-primary">
-                            <img src="@/assets/aws.png" alt="Hero pic" width="500" height="auto" loading="lazy"
+                            class="absolute h-full z-10 p-2 -translate-y-1/2 top-1/2 lg:right-3 md:right-90 sm:right-16 rounded-full shadow-lg border border-primary">
+                            <img src="https://res.cloudinary.com/shopdev-duyquang/image/upload/t_hero-pic/w6no3kppao8pvlo3navn" alt="Hero pic" width="700" height="auto" loading="lazy"
                                 class="w-full h-full rounded-full object-cover">
                         </div>
                     </div>
