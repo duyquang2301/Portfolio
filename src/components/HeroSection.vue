@@ -1,9 +1,5 @@
 <template>
     <section class="relative w-full" data-aos="zoom-in-up">
-        <!-- <div class="absolute top-0 inset-x-0 h-64 flex items-start">
-            <div class="h-24 w-2/3 bg-gradient-to-br from-[#570cac] blur-2xl invisible opacity-40"></div>
-            <div class="h-20 w-3/5 bg-gradient-to-r from-[#670ccf] opqcity-40 blur-2xl"></div>
-        </div> -->
         <div class="w-full px-5 sm:px-8 md:px-12 lg:px-8 max-w-screen-lg lg:max-w-screen-xl mx-auto relative">
             <div
                 class="grid lg:grid-cols-2 gap-10 xl:gap-14 relative pt-24 lg:max-w-none max-w-2xl md:max-w-3xl mx-auto">
@@ -18,7 +14,7 @@
                         Experienced in APIs, database optimization, and cloud deployment on AWS.
                     </p>
 
-                    <p class="text-[#868e96] text-center lg:text-left mx-auto max-w-xl"> 
+                    <p class="text-[#868e96] text-center lg:text-left mx-auto max-w-xl">
                         - With nearly 2 years of
                         experience in Node.js, Python, Java, I have developed scalable and efficient backend systems.
                         I am passionate about leveraging cloud-native tools to build innovative and high-availability
@@ -42,8 +38,8 @@
                                     </svg>
                                     <div class="download-loader text-white hidden"></div>
                                 </div>
-                                <a href="https://res.cloudinary.com/shopdev-duyquang/image/upload/v1739439766/Profile/ew6heyaceyzzn6fxhhv6.pdf" download="CV_TranDuyQuang.pdf"
-                                    class="pl-2 text-primary"> Download resume</a>
+                                <a href="https://res.cloudinary.com/shopdev-duyquang/image/upload/v1739439766/Profile/ew6heyaceyzzn6fxhhv6.pdf"
+                                    download="CV_TranDuyQuang.pdf" class="pl-2 text-primary"> Download resume</a>
                             </div>
                         </button>
                     </div>
@@ -56,7 +52,8 @@
                         </div>
                         <div
                             class="absolute h-full z-10 p-2 -translate-y-1/2 top-1/2 lg:right-3 md:right-90 sm:right-16 rounded-full shadow-lg border border-primary">
-                            <img src="https://res.cloudinary.com/shopdev-duyquang/image/upload/t_hero-pic/w6no3kppao8pvlo3navn" alt="Hero pic" width="700" height="auto" loading="lazy"
+                            <img src="https://res.cloudinary.com/shopdev-duyquang/image/upload/t_hero-pic/w6no3kppao8pvlo3navn"
+                                alt="Hero pic" width="700" height="auto" loading="lazy"
                                 class="w-full h-full rounded-full object-cover">
                         </div>
                     </div>
